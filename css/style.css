@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    width: 50px; /* Adjust the width as needed */
+    height: auto;
+}
+
+.navbar-nav .nav-link {
+    margin-right: 15px; /* Adjust spacing between menu items */
+}
+
+.navbar-nav .nav-link:last-child {
+    margin-right: 0;
+}
+
+
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
+
+.footer p {
+    margin: 0;
+    font-size: 16px;
+    color: #555;
+}
+
+.footer p span {
+    color: #e74c3c;
+}
